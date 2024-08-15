@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="mirantis-openstack-for-kubernetes-icon-medium" width="256" height="295.599" viewBox="0 0 256 295.599">
+  <path id="Path_54034" data-name="Path 54034" d="M732.156,776.419V633.24l-124.84-71.592L484.158,633.24V776.419L607.316,848.01Z" transform="translate(-479.221 -556.335)" fill="#e1edf7"></path>
+  <path id="Path_54035" data-name="Path 54035" d="M593.525,589.885l-85.68,49.475v96.918l85.68,49.47,85.68-49.47V639.357Z" transform="translate(-465.532 -540.017)" fill="#337bb8"></path>
+  <path id="Path_54036" data-name="Path 54036" d="M562.145,767.622V670.71l85.68-49.47v96.918Z" transform="translate(-434.152 -521.897)" fill="#214666"></path>
+  <path id="Path_54037" data-name="Path 54037" d="M679.229,639.356l-85.7,49.473-85.68-49.469,85.68-49.477Z" transform="translate(-465.532 -540.018)" fill="#b3d1ea"></path>
+  <path id="Path_54038" data-name="Path 54038" d="M581.007,614.651l-51.495,29.732v58.245l51.495,29.729,51.5-29.729V644.38Z" transform="translate(-453.011 -525.705)" fill="#f49abd"></path>
+  <path id="Path_54039" data-name="Path 54039" d="M562.147,721.465V663.223l51.5-29.729v58.245Z" transform="translate(-434.151 -514.815)" fill="#ed266a"></path>
+  <g id="Group_12420" data-name="Group 12420">
+    <path id="Path_53770" data-name="Path 53770" d="M608.173,853.88,481.029,779.973V632.187l127.147-73.906,128.853,73.89V779.992ZM489.029,775.368,608.2,844.638l120.828-69.29V636.808L608.2,567.52l-119.174,69.27Z" transform="translate(-481.029 -558.281)" fill="#fff"></path>
+    <path id="Path_53048" data-name="Path 53048" d="M641.961,607.313" transform="translate(-388.026 -529.945)" fill="none" stroke="#fff" stroke-width="5.07"></path>
+  </g>
+</svg>
